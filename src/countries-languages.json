@@ -1,0 +1,910 @@
+[
+  {
+    "name": "Algeria",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Argentina",
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ]
+  },
+  {
+    "name": "Australia",
+    "languages": [
+      {
+        "name": "English"
+      }
+    ]
+  },
+  {
+    "name": "Austria",
+    "languages": [
+      {
+        "name": "German"
+      }
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "languages": [
+      {
+        "name": "Bengali"
+      },
+      {
+        "name": "Hindi"
+      }
+    ]
+  },
+  {
+    "name": "Belarus",
+    "languages": [
+      {
+        "name": "Belarussian"
+      },
+      {
+        "name": "Russian"
+      }
+    ]
+  },
+  {
+    "name": "Belgium",
+    "languages": [
+      {
+        "name": "German"
+      },
+      {
+        "name": "Dutch (Flemish)"
+      },
+      {
+        "name": "French"
+      }
+    ]
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "languages": [
+      {
+        "name": "Croatian"
+      },
+      {
+        "name": "Bosnian"
+      }
+    ]
+  },
+  {
+    "name": "Brazil",
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "Portuguese"
+      }
+    ]
+  },
+  {
+    "name": "Canada",
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "French"
+      }
+    ]
+  },
+  {
+    "name": "Chile",
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ]
+  },
+  {
+    "name": "China",
+    "languages": [
+      {
+        "name": "Traditional Chinese"
+      },
+      {
+        "name": "Chinese Simplified"
+      }
+    ]
+  },
+  {
+    "name": "Colombia",
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ]
+  },
+  {
+    "name": "Croatia",
+    "languages": [
+      {
+        "name": "Croatian"
+      },
+      {
+        "name": "Bosnian"
+      }
+    ]
+  },
+  {
+    "name": "Czech Republic",
+    "languages": [
+      {
+        "name": "Czech"
+      }
+    ]
+  },
+  {
+    "name": "Denmark",
+    "languages": [
+      {
+        "name": "Danish"
+      }
+    ]
+  },
+  {
+    "name": "Dominican Republic",
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ]
+  },
+  {
+    "name": "Egypt",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Estonia",
+    "languages": [
+      {
+        "name": "Russian"
+      },
+      {
+        "name": "Estonian"
+      }
+    ]
+  },
+  {
+    "name": "Fiji",
+    "languages": [
+      {
+        "name": "Hindi"
+      }
+    ]
+  },
+  {
+    "name": "Finland",
+    "languages": [
+      {
+        "name": "Finnish"
+      },
+      {
+        "name": "Swedish"
+      }
+    ]
+  },
+  {
+    "name": "France",
+    "languages": [
+      {
+        "name": "French"
+      }
+    ]
+  },
+  {
+    "name": "Georgia",
+    "languages": [
+      {
+        "name": "Georgian"
+      }
+    ]
+  },
+  {
+    "name": "Germany",
+    "languages": [
+      {
+        "name": "German"
+      }
+    ]
+  },
+  {
+    "name": "Greece",
+    "languages": [
+      {
+        "name": "Greek"
+      }
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ]
+  },
+  {
+    "name": "Honduras",
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ]
+  },
+  {
+    "name": "Hong Kong",
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Traditional Chinese"
+      }
+    ]
+  },
+  {
+    "name": "Hungary",
+    "languages": [
+      {
+        "name": "Hungarian"
+      }
+    ]
+  },
+  {
+    "name": "Iceland",
+    "languages": [
+      {
+        "name": "Icelandic"
+      }
+    ]
+  },
+  {
+    "name": "India",
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Bengali"
+      },
+      {
+        "name": "Hindi"
+      },
+      {
+        "name": "Gujarati"
+      },
+      {
+        "name": "Kannada"
+      },
+      {
+        "name": "Malayalam"
+      },
+      {
+        "name": "Marathi"
+      },
+      {
+        "name": "Punjabi"
+      },
+      {
+        "name": "Tamil"
+      },
+      {
+        "name": "Telugu"
+      },
+      {
+        "name": "Urdu"
+      }
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "languages": [
+      {
+        "name": "Indonesian"
+      }
+    ]
+  },
+  {
+    "name": "Iraq",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Ireland",
+    "languages": [
+      {
+        "name": "English"
+      }
+    ]
+  },
+  {
+    "name": "Israel",
+    "languages": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "Russian"
+      },
+      {
+        "name": "Hebrew"
+      }
+    ]
+  },
+  {
+    "name": "Italy",
+    "languages": [
+      {
+        "name": "Italian"
+      }
+    ]
+  },
+  {
+    "name": "Japan",
+    "languages": [
+      {
+        "name": "Japanese"
+      },
+      {
+        "name": "Korean"
+      }
+    ]
+  },
+  {
+    "name": "Jordan",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Kazahkstan",
+    "languages": [
+      {
+        "name": "Russian"
+      },
+      {
+        "name": "Kazakh"
+      }
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "languages": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "English"
+      }
+    ]
+  },
+  {
+    "name": "Latvia",
+    "languages": [
+      {
+        "name": "Russian"
+      },
+      {
+        "name": "Latvian"
+      }
+    ]
+  },
+  {
+    "name": "Lebanon",
+    "languages": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "English"
+      }
+    ]
+  },
+  {
+    "name": "Libya",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "languages": [
+      {
+        "name": "Russian"
+      },
+      {
+        "name": "Lithuanian"
+      }
+    ]
+  },
+  {
+    "name": "Macedonia",
+    "languages": [
+      {
+        "name": "Macedonian"
+      }
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Tamil"
+      },
+      {
+        "name": "Malay"
+      },
+      {
+        "name": "Simplified Chinese"
+      }
+    ]
+  },
+  {
+    "name": "Malta",
+    "languages": [
+      {
+        "name": "Maltese"
+      }
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Mexico",
+    "languages": [
+      {
+        "name": "Mexico Spanish"
+      }
+    ]
+  },
+  {
+    "name": "Moldova",
+    "languages": [
+      {
+        "name": "Bulgarian"
+      },
+      {
+        "name": "Ukrainian"
+      },
+      {
+        "name": "Romanian"
+      }
+    ]
+  },
+  {
+    "name": "Morocco",
+    "languages": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "French"
+      }
+    ]
+  },
+  {
+    "name": "Nepal",
+    "languages": [
+      {
+        "name": "Hindi"
+      }
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "languages": [
+      {
+        "name": "French"
+      },
+      {
+        "name": "Dutch"
+      }
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "languages": [
+      {
+        "name": "English"
+      }
+    ]
+  },
+  {
+    "name": "Norway",
+    "languages": [
+      {
+        "name": "Norwegian (Bokmal)"
+      }
+    ]
+  },
+  {
+    "name": "Oman",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "languages": [
+      {
+        "name": "Hindi"
+      },
+      {
+        "name": "Punjabi"
+      },
+      {
+        "name": "Urdu"
+      }
+    ]
+  },
+  {
+    "name": "Palestinian Territories",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Panama",
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ]
+  },
+  {
+    "name": "Peru",
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ]
+  },
+  {
+    "name": "Philippines",
+    "languages": [
+      {
+        "name": "Cebuano"
+      },
+      {
+        "name": "Filipino"
+      }
+    ]
+  },
+  {
+    "name": "Poland",
+    "languages": [
+      {
+        "name": "Polish"
+      }
+    ]
+  },
+  {
+    "name": "Portugal",
+    "languages": [
+      {
+        "name": "Portuguese"
+      }
+    ]
+  },
+  {
+    "name": "Puerto Rico",
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ]
+  },
+  {
+    "name": "Qatar",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Romania",
+    "languages": [
+      {
+        "name": "Romanian"
+      }
+    ]
+  },
+  {
+    "name": "Russia",
+    "languages": [
+      {
+        "name": "Russian"
+      }
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "languages": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "English"
+      }
+    ]
+  },
+  {
+    "name": "Serbia",
+    "languages": [
+      {
+        "name": "Serbian"
+      }
+    ]
+  },
+  {
+    "name": "Singapore",
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Tamil"
+      },
+      {
+        "name": "Malay"
+      },
+      {
+        "name": "Simplified Chinese"
+      }
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "languages": [
+      {
+        "name": "Slovak"
+      }
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "languages": [
+      {
+        "name": "Slovenian"
+      }
+    ]
+  },
+  {
+    "name": "South Africa",
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Afrikaans"
+      },
+      {
+        "name": "Sotho"
+      },
+      {
+        "name": "Tswana"
+      },
+      {
+        "name": "Xhosa"
+      },
+      {
+        "name": "Zulu"
+      }
+    ]
+  },
+  {
+    "name": "South Korea",
+    "languages": [
+      {
+        "name": "Korean"
+      }
+    ]
+  },
+  {
+    "name": "Spain",
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "Portuguese"
+      },
+      {
+        "name": "Catalan"
+      },
+      {
+        "name": "Galician"
+      }
+    ]
+  },
+  {
+    "name": "Sudan",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Sweden",
+    "languages": [
+      {
+        "name": "Swedish"
+      }
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "German"
+      },
+      {
+        "name": "French"
+      },
+      {
+        "name": "Italian"
+      }
+    ]
+  },
+  {
+    "name": "Syria",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Traditional Chinese"
+      }
+    ]
+  },
+  {
+    "name": "Thailand",
+    "languages": [
+      {
+        "name": "Thai"
+      }
+    ]
+  },
+  {
+    "name": "Tunisia",
+    "languages": [
+      {
+        "name": "Arabic"
+      },
+      {
+        "name": "French"
+      }
+    ]
+  },
+  {
+    "name": "Turkey",
+    "languages": [
+      {
+        "name": "Turkish"
+      }
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "languages": [
+      {
+        "name": "Russian"
+      },
+      {
+        "name": "Ukrainian"
+      }
+    ]
+  },
+  {
+    "name": "United Arab Emirates",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "languages": [
+      {
+        "name": "English"
+      }
+    ]
+  },
+  {
+    "name": "United States",
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "languages": [
+      {
+        "name": "Vietnamese"
+      }
+    ]
+  },
+  {
+    "name": "Western Sahara",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Yemen",
+    "languages": [
+      {
+        "name": "Arabic"
+      }
+    ]
+  }
+]
